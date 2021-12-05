@@ -1,0 +1,3 @@
+[submodule "examples/example_submodule"]
+	path = examples/example_submodule
+	url = git@github.com:im-Kitsch/example_submodule.git
